@@ -20,6 +20,7 @@
 
 - docker run -d -p 8081:8081 registry.cn-beijing.aliyuncs.com/meowbite/jfrog-jcr
 
+
 ```bash
 
 username admin
